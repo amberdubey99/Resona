@@ -17,7 +17,7 @@ style.css    - Core stylesheet for the website.
 How to Run the Project:
 
 1.Clone this repository:
-git clone https://github.com/your-username/Resona-Audiobook-Website.git
+git clone https://github.com/amberdubey99/Resona
 2.Open the index.html file in a web browser.
 Contributing:
 Feel free to fork this project, make improvements, and submit a pull request. Feedback is always appreciated!
